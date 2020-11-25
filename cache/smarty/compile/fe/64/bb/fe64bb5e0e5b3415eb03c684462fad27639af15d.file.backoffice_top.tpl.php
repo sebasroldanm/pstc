@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2020-11-25 12:25:26
+<?php /* Smarty version Smarty-3.1.19, created on 2020-11-25 16:19:27
          compiled from "C:\laragon\www\pstc\modules\onboarding\views\templates\hook\backoffice_top.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:146855fbe938639afe1-46129856%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'fe64bb5e0e5b3415eb03c684462fad27639af15d' => 
     array (
       0 => 'C:\\laragon\\www\\pstc\\modules\\onboarding\\views\\templates\\hook\\backoffice_top.tpl',
-      1 => 1606325044,
+      1 => 1606339101,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5fbe93865847a7_25446027',
   'variables' => 
   array (
     'display_onboarding_modal' => 0,
@@ -27,8 +29,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'module_dir' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5fbe93865847a7_25446027',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_5fbe93865847a7_25446027')) {function content_5fbe93865847a7_25446027($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_escape')) include 'C:\\laragon\\www\\pstc\\tools\\smarty\\plugins\\modifier.escape.php';
 ?>

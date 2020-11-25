@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2020-11-25 12:25:47
+<?php /* Smarty version Smarty-3.1.19, created on 2020-11-25 16:19:36
          compiled from "C:\laragon\www\pstc\modules\psaddonsconnect\views\templates\hook\dashboard_zone_one.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:14645fbe939b922f59-92535426%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '51db94ae26832ce07a705071cac9a3ffa5646938' => 
     array (
       0 => 'C:\\laragon\\www\\pstc\\modules\\psaddonsconnect\\views\\templates\\hook\\dashboard_zone_one.tpl',
-      1 => 1606325049,
+      1 => 1606339105,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5fbe939ba716f5_73326112',
   'variables' => 
   array (
     'logged_on_addons17' => 0,
@@ -27,8 +29,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'practical_links' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5fbe939ba716f5_73326112',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_5fbe939ba716f5_73326112')) {function content_5fbe939ba716f5_73326112($_smarty_tpl) {?>
 
